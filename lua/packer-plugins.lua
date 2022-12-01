@@ -14,7 +14,7 @@ return require('packer').startup(function()
 	use 'preservim/tagbar'
 	use 'tc50cal/vim-terminal'
 	use 'ryanoasis/vim-devicons'
-	-- use 'neoclide/coc.nvim'
+	use 'neoclide/coc.nvim'
 	use 'rafi/awesome-vim-colorschemes'
 	use 'ap/vim-css-color'
 	use 'tpope/vim-surround'
